@@ -23,11 +23,14 @@
 ![Static Badge](https://img.shields.io/badge/Tailwind-purple?style=for-the-badge&logo=CSS&logoColor=yellow&labelColor=black)
 
 ### Images
-##### Webpage
+### Webpage
 ![ui](https://github.com/abhinavsiingh/UniMarket/assets/90022559/697c43e8-0efc-4036-b02d-be5b9d67f34b)
 
-##### Seller Dashboard
+### Seller Dashboard
 ![sui](https://github.com/abhinavsiingh/UniMarket/assets/90022559/7ad46d6e-f2e3-4fa3-8640-8b1d851218cf)
+
+### chatting feature
+
 
 
 
