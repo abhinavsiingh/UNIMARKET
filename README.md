@@ -30,6 +30,8 @@
 ![sui](https://github.com/abhinavsiingh/UniMarket/assets/90022559/7ad46d6e-f2e3-4fa3-8640-8b1d851218cf)
 
 ### chatting feature
+![chat](https://github.com/abhinavsiingh/UniMarket/assets/90022559/db2de202-e877-465c-9ebd-39ade8c58473)
+
 
 
 
